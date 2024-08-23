@@ -1,0 +1,17 @@
+{
+    "name": "joannegton/pdo",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Joannegton\\Pdo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "joannegton",
+            "email": "wtg131998@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
